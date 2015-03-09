@@ -1,0 +1,6 @@
+:set nocompatible
+:set number
+:set wrapscan
+:set ic
+:set hls
+:set mouse=a
